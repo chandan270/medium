@@ -1,1 +1,1 @@
-export const BACKEND_URL = 'http://backend.cgarg1031.workers.dev';
+export const BACKEND_URL = 'https://backend.cgarg1031.workers.dev';
